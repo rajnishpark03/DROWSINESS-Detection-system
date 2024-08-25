@@ -21,7 +21,8 @@ NumPy
 Matplotlib (for visualization)
 
 
-# This is our group project for final year my team members are
+# This is our group project for final
+Here's my team member's name
 @swetha r
 @swetha t
 @eswaran g
